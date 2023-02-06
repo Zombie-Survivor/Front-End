@@ -8,7 +8,15 @@ html {
 .background-img {
   width: 100vw;
   height: 100vh;
+  position: absolute;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+h1{
+  color: white;
+  font-family: 'Creepster', cursive;
+  margin-left: 200px;
+  font-size: 70px;
 }
